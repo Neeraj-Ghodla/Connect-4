@@ -2,4 +2,4 @@
 
 University of Auckland
 
-ENGGEN 131 Project, Semester 2 2018
+ENGGEN 131 Project 2, Semester 2 2018
